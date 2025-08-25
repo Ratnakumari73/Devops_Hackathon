@@ -1,0 +1,3 @@
+Name : Ratna Kumari Inti
+Course : Bsc Datascience
+One thing you have learned about GitHub : Creating repository.
